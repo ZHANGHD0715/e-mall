@@ -11,6 +11,7 @@
     <groupId>com.haidong</groupId>
     <artifactId>e-mall-common-service</artifactId>
     <version>0.0.1-SNAPSHOT</version>
+    <packaging>jar</packaging>
     <name>e-mall-common-service</name>
     <description>Demo project for Spring Boot</description>
 
