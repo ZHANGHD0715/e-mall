@@ -40,4 +40,13 @@
         </plugins>
     </build>
 
+    <modules>
+        <module>e-mall-analysis</module>
+        <module>e-mall-common-service</module>
+        <module>e-mall-controller</module>
+        <module>e-mall-order</module>
+        <module>e-mall-product</module>
+        <module>e-mall-user</module>
+    </modules>
+
 </project>
